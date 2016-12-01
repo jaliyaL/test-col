@@ -1,8 +1,5 @@
 "this from2" 
 this from file1
 this file by 2
-
-<<<<<<< HEAD
-=======
 added by jaliya
->>>>>>> 078c3401800939ebf8fffff5c2845687656268dd
+
