@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"1" >test col > 2 >2 >test > test only
-=======
-"1" >test col > 2 >2 >test > only 2
->>>>>>> 2d61c0cb7cc1f00d0a924774a6436206a128db4e
+"1" >test col > 2 >2 >test > test only > only 2
+
