@@ -1,2 +1,2 @@
-"1" >test col > 2 >2 >test > test only > only 2
+"1" >test col > 2 >2 >test > test only > only 2 >pull
 
